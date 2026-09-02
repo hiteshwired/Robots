@@ -1,4 +1,4 @@
-# Karel J. Robot — Beeper House
+# Karel J. Robot: Beeper House
 
 One of the first programs I wrote, from when I was learning Java in 2018. It uses Karel
 J. Robot, a teaching framework where you drive simple robots around a grid and drop
