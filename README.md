@@ -26,7 +26,7 @@ delay set by `World.setDelay(50)`.
 
 This is early work and it reads like it. The movement code is copy-pasted rather than
 factored into loops over a list of robots, and each turn helper is hardcoded to one
-specific robot instead of taking a robot as a parameter — which is the obvious fix and
+specific robot instead of taking a robot as a parameter; which is the obvious fix and
 exactly the kind of thing I didn't see at the time. Two robots, `filler` and `eraser`,
 are declared and never used. `hurdles.kwld` is a world file left over from the starter
 project this was built on top of, and the program doesn't load it.
